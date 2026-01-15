@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7fdd3a3da744d64b9a5379f6d8886dc, type: 3}
+  m_Name: Log
+  m_EditorClassIdentifier: 
+  entityName: Log
+  entitySprite: {fileID: 21300000, guid: d0a71da4f3f970842bc450e6ff2fd65c, type: 3}
+  hitPoints: 1
+  weight: 10
+  CardsToDrop:
+  - {fileID: 11400000, guid: 90dd7b8c2b59db74b8e611da07d61be3, type: 2}
+  - {fileID: 11400000, guid: 8004b710280fffb48b9817c555ada629, type: 2}
+  - {fileID: 11400000, guid: c59acb60afb9d5643b313ef8a156a223, type: 2}
+  - {fileID: 11400000, guid: c3f6d812663f1414a8a462cde1073465, type: 2}
+  - {fileID: 11400000, guid: 959f83b798f89654d9eca296b0e206f8, type: 2}
+  - {fileID: 11400000, guid: 335e198bdaebceb41b5fba82ec237a48, type: 2}
+  - {fileID: 11400000, guid: 4e5c35e6f0812774f805225adb932eee, type: 2}
+  consumablesToDrop:
+  - {fileID: 11400000, guid: dddcd72b098612b4f8e57a50f78b5435, type: 2}
+  - {fileID: 11400000, guid: 2e81452c21a4ec44298399cacfb2d038, type: 2}
+  - {fileID: 11400000, guid: b06bc0e1b9a634e45b3bebef2f3145d5, type: 2}

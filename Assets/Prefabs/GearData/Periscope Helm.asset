@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb93bf581be0c542b656087213932ac, type: 3}
+  m_Name: Periscope Helm
+  m_EditorClassIdentifier: 
+  gearName: periscopeHelm_name
+  gearIcon: {fileID: 21300000, guid: 68df5f7d3812a0a45b4757165246b382, type: 3}
+  gearType: 0
+  goldCost: 100
+  armor: 50
+  elementalResistances: []
+  gearEffects: []
+  description: periscopeHelm_desc
+  linkedBuyableItem: {fileID: 11400000, guid: fff937f6db4345b499282c2385b7b15f, type: 2}

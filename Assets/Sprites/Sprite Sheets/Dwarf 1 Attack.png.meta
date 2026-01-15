@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 45fb74a3caafcb3478ba6947fb3a8dbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3963473586895225804
+    second: Dwarf 1 Attack_0
+  - first:
+      213: -5110830597649827327
+    second: Dwarf 1 Attack_1
+  - first:
+      213: -637314501668412619
+    second: Dwarf 1 Attack_2
+  - first:
+      213: 282312552337518790
+    second: Dwarf 1 Attack_3
+  - first:
+      213: 6581886845917111705
+    second: Dwarf 1 Attack_4
+  - first:
+      213: -4001647930403732050
+    second: Dwarf 1 Attack_5
+  - first:
+      213: -6592442039278753243
+    second: Dwarf 1 Attack_6
+  - first:
+      213: -6898984734005113042
+    second: Dwarf 1 Attack_7
+  - first:
+      213: 7659626121397106241
+    second: Dwarf 1 Attack_8
+  - first:
+      213: 5337345017909401285
+    second: Dwarf 1 Attack_9
+  - first:
+      213: 4315386125372773255
+    second: Dwarf 1 Attack_10
+  - first:
+      213: -744619012817212755
+    second: Dwarf 1 Attack_11
+  - first:
+      213: 753965402307022789
+    second: Dwarf 1 Attack_12
+  - first:
+      213: -8914722489526733185
+    second: Dwarf 1 Attack_13
+  - first:
+      213: -4492626362159404524
+    second: Dwarf 1 Attack_14
+  - first:
+      213: -7077468058069171957
+    second: Dwarf 1 Attack_15
+  - first:
+      213: 59909050649289815
+    second: Dwarf 1 Attack_16
+  - first:
+      213: -3587529262863906841
+    second: Dwarf 1 Attack_17
+  - first:
+      213: -1618783821521645294
+    second: Dwarf 1 Attack_18
+  - first:
+      213: 859798541144356965
+    second: Dwarf 1 Attack_19
+  - first:
+      213: 2091571775990172779
+    second: Dwarf 1 Attack_20
+  - first:
+      213: -3508718464203919164
+    second: Dwarf 1 Attack_21
+  - first:
+      213: 5540790952291645833
+    second: Dwarf 1 Attack_22
+  - first:
+      213: 2649824823168156221
+    second: Dwarf 1 Attack_23
+  - first:
+      213: 6762085404426466815
+    second: Dwarf 1 Attack_24
+  - first:
+      213: -5567672969655604130
+    second: Dwarf 1 Attack_25
+  - first:
+      213: -582016311830851987
+    second: Dwarf 1 Attack_26
+  - first:
+      213: 5589297733635852767
+    second: Dwarf 1 Attack_27
+  - first:
+      213: -503511438760238123
+    second: Dwarf 1 Attack_28
+  - first:
+      213: 4834113519488857773
+    second: Dwarf 1 Attack_29
+  - first:
+      213: 4598860426399801253
+    second: Dwarf 1 Attack_30
+  - first:
+      213: -3016372144304949180
+    second: Dwarf 1 Attack_31
+  - first:
+      213: -1264741863521439107
+    second: Dwarf 1 Attack_32
+  - first:
+      213: 5955740528008719840
+    second: Dwarf 1 Attack_33
+  - first:
+      213: -1890080109979874112
+    second: Dwarf 1 Attack_34
+  - first:
+      213: 8244987570242192078
+    second: Dwarf 1 Attack_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc388875a36110730800000000000000
+      internalID: 3963473586895225804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a72e756aea219b0800000000000000
+      internalID: -5110830597649827327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53369dd56ddc727f0800000000000000
+      internalID: -637314501668412619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c036b545c9fae300800000000000000
+      internalID: 282312552337518790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995a4bac63f875b50800000000000000
+      internalID: 6581886845917111705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5cb10b86a4778c0800000000000000
+      internalID: -4001647930403732050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a207eb4e0f284a0800000000000000
+      internalID: -6592442039278753243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f48c2dfe1e140a0800000000000000
+      internalID: -6898984734005113042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1467d2eff557c4a60800000000000000
+      internalID: 7659626121397106241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d03ce30f021a40800000000000000
+      internalID: 5337345017909401285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835e7f21d453eb30800000000000000
+      internalID: 4315386125372773255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa2708f3f49aa5f0800000000000000
+      internalID: -744619012817212755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfc179e98f967a00800000000000000
+      internalID: 753965402307022789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76b294c02b884480800000000000000
+      internalID: -8914722489526733185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41aeee6602cf6a1c0800000000000000
+      internalID: -4492626362159404524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b010d999c48c7cd90800000000000000
+      internalID: -7077468058069171957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75428c2d6f6d4d000800000000000000
+      internalID: 59909050649289815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e78da99429863ec0800000000000000
+      internalID: -3587529262863906841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2119d06e0bce889e0800000000000000
+      internalID: -1618783821521645294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568fe4fb73e9eeb00800000000000000
+      internalID: 859798541144356965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c802ad271c60d10800000000000000
+      internalID: 2091571775990172779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0754495278e4fc0800000000000000
+      internalID: -3508718464203919164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989ba06c308d4ec40800000000000000
+      internalID: 5540790952291645833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3243f523a116c420800000000000000
+      internalID: 2649824823168156221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff571b729d0c7dd50800000000000000
+      internalID: 6762085404426466815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c2222dee6abb2b0800000000000000
+      internalID: -5567672969655604130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec6df7f334ce7f0800000000000000
+      internalID: -582016311830851987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9c245ecac219d40800000000000000
+      internalID: 5589297733635852767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3a950a30b2309f0800000000000000
+      internalID: -503511438760238123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6fb0d32a8361340800000000000000
+      internalID: 4834113519488857773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af5927213f62df30800000000000000
+      internalID: 4598860426399801253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448f1542481b326d0800000000000000
+      internalID: -3016372144304949180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d723d3cd9fbb27ee0800000000000000
+      internalID: -1264741863521439107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed6b52947a07a250800000000000000
+      internalID: 5955740528008719840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc4e9f672615c5e0800000000000000
+      internalID: -1890080109979874112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1 Attack_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec20cc5e2841c6270800000000000000
+      internalID: 8244987570242192078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bc531d98c67d09247bf029dde9b9fd2b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf 1 Attack_0: 3963473586895225804
+      Dwarf 1 Attack_1: -5110830597649827327
+      Dwarf 1 Attack_10: 4315386125372773255
+      Dwarf 1 Attack_11: -744619012817212755
+      Dwarf 1 Attack_12: 753965402307022789
+      Dwarf 1 Attack_13: -8914722489526733185
+      Dwarf 1 Attack_14: -4492626362159404524
+      Dwarf 1 Attack_15: -7077468058069171957
+      Dwarf 1 Attack_16: 59909050649289815
+      Dwarf 1 Attack_17: -3587529262863906841
+      Dwarf 1 Attack_18: -1618783821521645294
+      Dwarf 1 Attack_19: 859798541144356965
+      Dwarf 1 Attack_2: -637314501668412619
+      Dwarf 1 Attack_20: 2091571775990172779
+      Dwarf 1 Attack_21: -3508718464203919164
+      Dwarf 1 Attack_22: 5540790952291645833
+      Dwarf 1 Attack_23: 2649824823168156221
+      Dwarf 1 Attack_24: 6762085404426466815
+      Dwarf 1 Attack_25: -5567672969655604130
+      Dwarf 1 Attack_26: -582016311830851987
+      Dwarf 1 Attack_27: 5589297733635852767
+      Dwarf 1 Attack_28: -503511438760238123
+      Dwarf 1 Attack_29: 4834113519488857773
+      Dwarf 1 Attack_3: 282312552337518790
+      Dwarf 1 Attack_30: 4598860426399801253
+      Dwarf 1 Attack_31: -3016372144304949180
+      Dwarf 1 Attack_32: -1264741863521439107
+      Dwarf 1 Attack_33: 5955740528008719840
+      Dwarf 1 Attack_34: -1890080109979874112
+      Dwarf 1 Attack_35: 8244987570242192078
+      Dwarf 1 Attack_4: 6581886845917111705
+      Dwarf 1 Attack_5: -4001647930403732050
+      Dwarf 1 Attack_6: -6592442039278753243
+      Dwarf 1 Attack_7: -6898984734005113042
+      Dwarf 1 Attack_8: 7659626121397106241
+      Dwarf 1 Attack_9: 5337345017909401285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

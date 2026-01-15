@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: 16dd13003f364224e94ee1d26ab22ce5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3034469851709642047
+    second: Dwarf 1  - GivePickaxe_0
+  - first:
+      213: -2711515399531329016
+    second: Dwarf 1  - GivePickaxe_1
+  - first:
+      213: -886752286516558845
+    second: Dwarf 1  - GivePickaxe_2
+  - first:
+      213: 4057133613912043809
+    second: Dwarf 1  - GivePickaxe_3
+  - first:
+      213: -4567700692588800967
+    second: Dwarf 1  - GivePickaxe_4
+  - first:
+      213: 2691504915442004126
+    second: Dwarf 1  - GivePickaxe_5
+  - first:
+      213: 6892920496375292780
+    second: Dwarf 1  - GivePickaxe_6
+  - first:
+      213: 6572746151915410684
+    second: Dwarf 1  - GivePickaxe_7
+  - first:
+      213: 7168230056407867110
+    second: Dwarf 1  - GivePickaxe_8
+  - first:
+      213: -7603399856138499807
+    second: Dwarf 1  - GivePickaxe_9
+  - first:
+      213: 4579651926379521028
+    second: Dwarf 1  - GivePickaxe_10
+  - first:
+      213: 3870351607724214426
+    second: Dwarf 1  - GivePickaxe_11
+  - first:
+      213: -2420621605177579417
+    second: Dwarf 1  - GivePickaxe_12
+  - first:
+      213: 2267069203204763417
+    second: Dwarf 1  - GivePickaxe_13
+  - first:
+      213: 3064196542318521249
+    second: Dwarf 1  - GivePickaxe_14
+  - first:
+      213: 7085480686122166164
+    second: Dwarf 1  - GivePickaxe_15
+  - first:
+      213: -4934955620110925866
+    second: Dwarf 1  - GivePickaxe_16
+  - first:
+      213: -4986696663827593726
+    second: Dwarf 1  - GivePickaxe_17
+  - first:
+      213: -7971332194438460346
+    second: Dwarf 1  - GivePickaxe_18
+  - first:
+      213: -3829592268776208134
+    second: Dwarf 1  - GivePickaxe_19
+  - first:
+      213: 2308710920064340409
+    second: Dwarf 1  - GivePickaxe_20
+  - first:
+      213: -3888441353357564792
+    second: Dwarf 1  - GivePickaxe_21
+  - first:
+      213: -9104022370909724929
+    second: Dwarf 1  - GivePickaxe_22
+  - first:
+      213: 8528340507310360319
+    second: Dwarf 1  - GivePickaxe_23
+  - first:
+      213: 6096457912091378349
+    second: Dwarf 1  - GivePickaxe_24
+  - first:
+      213: 5252158517686526164
+    second: Dwarf 1  - GivePickaxe_25
+  - first:
+      213: 4308349797866754880
+    second: Dwarf 1  - GivePickaxe_26
+  - first:
+      213: -6973503755536041679
+    second: Dwarf 1  - GivePickaxe_27
+  - first:
+      213: -9019255207227731783
+    second: Dwarf 1  - GivePickaxe_28
+  - first:
+      213: 3612421821453644448
+    second: Dwarf 1  - GivePickaxe_29
+  - first:
+      213: 7965201744944857455
+    second: Dwarf 1  - GivePickaxe_30
+  - first:
+      213: -3612591289610167157
+    second: Dwarf 1  - GivePickaxe_31
+  - first:
+      213: -6236386862094206964
+    second: Dwarf 1  - GivePickaxe_32
+  - first:
+      213: 5180689095559458401
+    second: Dwarf 1  - GivePickaxe_33
+  - first:
+      213: 7933835198360056710
+    second: Dwarf 1  - GivePickaxe_34
+  - first:
+      213: 5447625655510035455
+    second: Dwarf 1  - GivePickaxe_35
+  - first:
+      213: 732301203524720473
+    second: Dwarf 1  - GivePickaxe_36
+  - first:
+      213: 4042522291506755480
+    second: Dwarf 1  - GivePickaxe_37
+  - first:
+      213: 1532525906725978898
+    second: Dwarf 1  - GivePickaxe_38
+  - first:
+      213: 5009621555436810449
+    second: Dwarf 1  - GivePickaxe_39
+  - first:
+      213: -6478207617460878509
+    second: Dwarf 1  - GivePickaxe_40
+  - first:
+      213: 9202224454973244241
+    second: Dwarf 1  - GivePickaxe_41
+  - first:
+      213: 2976000320133686388
+    second: Dwarf 1  - GivePickaxe_42
+  - first:
+      213: -6063323411930198904
+    second: Dwarf 1  - GivePickaxe_43
+  - first:
+      213: 5865990089522631861
+    second: Dwarf 1  - GivePickaxe_44
+  - first:
+      213: -3639499114879042535
+    second: Dwarf 1  - GivePickaxe_45
+  - first:
+      213: -8689647261966725237
+    second: Dwarf 1  - GivePickaxe_46
+  - first:
+      213: 7265868324621181245
+    second: Dwarf 1  - GivePickaxe_47
+  - first:
+      213: -7005458901515517972
+    second: Dwarf 1  - GivePickaxe_48
+  - first:
+      213: -4962401215713327666
+    second: Dwarf 1  - GivePickaxe_49
+  - first:
+      213: 958676811724448122
+    second: Dwarf 1  - GivePickaxe_50
+  - first:
+      213: -4860611674556496112
+    second: Dwarf 1  - GivePickaxe_51
+  - first:
+      213: 4865164499674311068
+    second: Dwarf 1  - GivePickaxe_52
+  - first:
+      213: 8386947567924095560
+    second: Dwarf 1  - GivePickaxe_53
+  - first:
+      213: -4541123463502164109
+    second: Dwarf 1  - GivePickaxe_54
+  - first:
+      213: -7337308615208850316
+    second: Dwarf 1  - GivePickaxe_55
+  - first:
+      213: -5376260516814374837
+    second: Dwarf 1  - GivePickaxe_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae6374fb563e5d0800000000000000
+      internalID: -3034469851709642047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a0fef3c13ce5ad0800000000000000
+      internalID: -2711515399531329016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 800
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3044a6e5e7f91b3f0800000000000000
+      internalID: -886752286516558845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 800
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1213687b685dd4830800000000000000
+      internalID: 4057133613912043809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93450f9bb644c90c0800000000000000
+      internalID: -4567700692588800967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90732cd5752a5520800000000000000
+      internalID: 2691504915442004126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 800
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c636573dba298af50800000000000000
+      internalID: 6892920496375292780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 800
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4dbbf1dc5173b50800000000000000
+      internalID: 6572746151915410684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1874e14baa7360800000000000000
+      internalID: 7168230056407867110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129cb998d1c4b7690800000000000000
+      internalID: -7603399856138499807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404e8cab9213e8f30800000000000000
+      internalID: 4579651926379521028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98834ef74046b530800000000000000
+      internalID: 3870351607724214426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 672
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76821cf9979386ed0800000000000000
+      internalID: -2420621605177579417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 672
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f6f3acd6f367f10800000000000000
+      internalID: 2267069203204763417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab20ea3586368a20800000000000000
+      internalID: 3064196542318521249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 672
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497e33fb42fa45260800000000000000
+      internalID: 7085480686122166164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df78f09204838bb0800000000000000
+      internalID: -4934955620110925866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2064eed0ec1bbcab0800000000000000
+      internalID: -4986696663827593726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c4cd36a93206190800000000000000
+      internalID: -7971332194438460346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af803012f1e8adac0800000000000000
+      internalID: -3829592268776208134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1108789503a0020800000000000000
+      internalID: 2308710920064340409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ee23e03b790ac0800000000000000
+      internalID: -3888441353357564792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe57ba83e308a180800000000000000
+      internalID: -9104022370909724929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 544
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60fcd9180ca5670800000000000000
+      internalID: 8528340507310360319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2835eab28fa9450800000000000000
+      internalID: 6096457912091378349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d06fbe385a63e840800000000000000
+      internalID: 5252158517686526164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04359f580555acb30800000000000000
+      internalID: 4308349797866754880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139fb631843293f90800000000000000
+      internalID: -6973503755536041679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b05992dc2b25d280800000000000000
+      internalID: -9019255207227731783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a23d96d186e12230800000000000000
+      internalID: 3612421821453644448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6182cb19c41a8e60800000000000000
+      internalID: 7965201744944857455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 416
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c9d18cc5f7dddc0800000000000000
+      internalID: -3612591289610167157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0836f2d037e379a0800000000000000
+      internalID: -6236386862094206964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eaf80b84185e740800000000000000
+      internalID: 5180689095559458401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683fdb0e315aa1e60800000000000000
+      internalID: 7933835198360056710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbeaf1cbaad99b40800000000000000
+      internalID: 5447625655510035455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9579ea09018a92a00800000000000000
+      internalID: 732301203524720473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897bbdd1b9ce91830800000000000000
+      internalID: 4042522291506755480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2134c774130a44510800000000000000
+      internalID: 1532525906725978898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 288
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d073f63340c58540800000000000000
+      internalID: 5009621555436810449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353c304be78c816a0800000000000000
+      internalID: -6478207617460878509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153c716e26ed4bf70800000000000000
+      internalID: 9202224454973244241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474640d0680ec4920800000000000000
+      internalID: 2976000320133686388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c47915b7fbadba0800000000000000
+      internalID: -6063323411930198904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b455f538ee286150800000000000000
+      internalID: 5865990089522631861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c394186d6ed7dc0800000000000000
+      internalID: -3639499114879042535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f070fdadb286780800000000000000
+      internalID: -8689647261966725237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 160
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31eec9bebc85d460800000000000000
+      internalID: 7265868324621181245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefb19ede3c97ce90800000000000000
+      internalID: -7005458901515517972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5c070e262022bb0800000000000000
+      internalID: -4962401215713327666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf 1  - GivePickaxe_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a716d312b77ed4d00800000000000000
+      internalID: 958676811724448122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a14dc35f50e72d34599115f741c972b0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dwarf 1  - GivePickaxe_0: -3034469851709642047
+      Dwarf 1  - GivePickaxe_1: -2711515399531329016
+      Dwarf 1  - GivePickaxe_10: 4579651926379521028
+      Dwarf 1  - GivePickaxe_11: 3870351607724214426
+      Dwarf 1  - GivePickaxe_12: -2420621605177579417
+      Dwarf 1  - GivePickaxe_13: 2267069203204763417
+      Dwarf 1  - GivePickaxe_14: 3064196542318521249
+      Dwarf 1  - GivePickaxe_15: 7085480686122166164
+      Dwarf 1  - GivePickaxe_16: -4934955620110925866
+      Dwarf 1  - GivePickaxe_17: -4986696663827593726
+      Dwarf 1  - GivePickaxe_18: -7971332194438460346
+      Dwarf 1  - GivePickaxe_19: -3829592268776208134
+      Dwarf 1  - GivePickaxe_2: -886752286516558845
+      Dwarf 1  - GivePickaxe_20: 2308710920064340409
+      Dwarf 1  - GivePickaxe_21: -3888441353357564792
+      Dwarf 1  - GivePickaxe_22: -9104022370909724929
+      Dwarf 1  - GivePickaxe_23: 8528340507310360319
+      Dwarf 1  - GivePickaxe_24: 6096457912091378349
+      Dwarf 1  - GivePickaxe_25: 5252158517686526164
+      Dwarf 1  - GivePickaxe_26: 4308349797866754880
+      Dwarf 1  - GivePickaxe_27: -6973503755536041679
+      Dwarf 1  - GivePickaxe_28: -9019255207227731783
+      Dwarf 1  - GivePickaxe_29: 3612421821453644448
+      Dwarf 1  - GivePickaxe_3: 4057133613912043809
+      Dwarf 1  - GivePickaxe_30: 7965201744944857455
+      Dwarf 1  - GivePickaxe_31: -3612591289610167157
+      Dwarf 1  - GivePickaxe_32: -6236386862094206964
+      Dwarf 1  - GivePickaxe_33: 5180689095559458401
+      Dwarf 1  - GivePickaxe_34: 7933835198360056710
+      Dwarf 1  - GivePickaxe_35: 5447625655510035455
+      Dwarf 1  - GivePickaxe_36: 732301203524720473
+      Dwarf 1  - GivePickaxe_37: 4042522291506755480
+      Dwarf 1  - GivePickaxe_38: 1532525906725978898
+      Dwarf 1  - GivePickaxe_39: 5009621555436810449
+      Dwarf 1  - GivePickaxe_4: -4567700692588800967
+      Dwarf 1  - GivePickaxe_40: -6478207617460878509
+      Dwarf 1  - GivePickaxe_41: 9202224454973244241
+      Dwarf 1  - GivePickaxe_42: 2976000320133686388
+      Dwarf 1  - GivePickaxe_43: -6063323411930198904
+      Dwarf 1  - GivePickaxe_44: 5865990089522631861
+      Dwarf 1  - GivePickaxe_45: -3639499114879042535
+      Dwarf 1  - GivePickaxe_46: -8689647261966725237
+      Dwarf 1  - GivePickaxe_47: 7265868324621181245
+      Dwarf 1  - GivePickaxe_48: -7005458901515517972
+      Dwarf 1  - GivePickaxe_49: -4962401215713327666
+      Dwarf 1  - GivePickaxe_5: 2691504915442004126
+      Dwarf 1  - GivePickaxe_50: 958676811724448122
+      Dwarf 1  - GivePickaxe_6: 6892920496375292780
+      Dwarf 1  - GivePickaxe_7: 6572746151915410684
+      Dwarf 1  - GivePickaxe_8: 7168230056407867110
+      Dwarf 1  - GivePickaxe_9: -7603399856138499807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

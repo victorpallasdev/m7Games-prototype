@@ -1,0 +1,1168 @@
+fileFormatVersion: 2
+guid: 556b3be3cd92ce541b58e1c50aa35ef1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4224920554293237554
+    second: Pickaxe Attack_0
+  - first:
+      213: -625935025429979116
+    second: Pickaxe Attack_1
+  - first:
+      213: 7859995909357913527
+    second: Pickaxe Attack_2
+  - first:
+      213: -2139550246290937091
+    second: Pickaxe Attack_3
+  - first:
+      213: -2289504974150285630
+    second: Pickaxe Attack_4
+  - first:
+      213: -5454636812289724431
+    second: Pickaxe Attack_5
+  - first:
+      213: -8945584214681219844
+    second: Pickaxe Attack_6
+  - first:
+      213: 297395124389950571
+    second: Pickaxe Attack_7
+  - first:
+      213: 3694326110659973537
+    second: Pickaxe Attack_8
+  - first:
+      213: -5832691629981438099
+    second: Pickaxe Attack_9
+  - first:
+      213: -2101016537817163902
+    second: Pickaxe Attack_10
+  - first:
+      213: 1050738264825729245
+    second: Pickaxe Attack_11
+  - first:
+      213: 1231138373950381288
+    second: Pickaxe Attack_12
+  - first:
+      213: -3988140481205012975
+    second: Pickaxe Attack_13
+  - first:
+      213: -4408931446544057983
+    second: Pickaxe Attack_14
+  - first:
+      213: 3922748846390385986
+    second: Pickaxe Attack_15
+  - first:
+      213: -8416800863194393144
+    second: Pickaxe Attack_16
+  - first:
+      213: -7300007148810932103
+    second: Pickaxe Attack_17
+  - first:
+      213: -961822046766564916
+    second: Pickaxe Attack_18
+  - first:
+      213: 1064900845500557651
+    second: Pickaxe Attack_19
+  - first:
+      213: 5956829220584922155
+    second: Pickaxe Attack_20
+  - first:
+      213: 1035356625187877415
+    second: Pickaxe Attack_21
+  - first:
+      213: 2511476057258599853
+    second: Pickaxe Attack_22
+  - first:
+      213: -5720192272671630737
+    second: Pickaxe Attack_23
+  - first:
+      213: 7892642426389035156
+    second: Pickaxe Attack_24
+  - first:
+      213: -1289621498561728780
+    second: Pickaxe Attack_25
+  - first:
+      213: -4655611390938977365
+    second: Pickaxe Attack_26
+  - first:
+      213: 5418166447361104370
+    second: Pickaxe Attack_27
+  - first:
+      213: -705684550488861643
+    second: Pickaxe Attack_28
+  - first:
+      213: 5013985275224851972
+    second: Pickaxe Attack_29
+  - first:
+      213: -1573742168786915727
+    second: Pickaxe Attack_30
+  - first:
+      213: -7651968115254000279
+    second: Pickaxe Attack_31
+  - first:
+      213: 8928102184634733541
+    second: Pickaxe Attack_32
+  - first:
+      213: 7417984782990536837
+    second: Pickaxe Attack_33
+  - first:
+      213: 6940239367460519604
+    second: Pickaxe Attack_34
+  - first:
+      213: 6989613316571868425
+    second: Pickaxe Attack_35
+  - first:
+      213: -9191191565791088305
+    second: Pickaxe Attack_36
+  - first:
+      213: -9000991875000986117
+    second: Pickaxe Attack_37
+  - first:
+      213: -7085156466069479064
+    second: Pickaxe Attack_38
+  - first:
+      213: -5361547404330955766
+    second: Pickaxe Attack_39
+  - first:
+      213: -6531054661961115087
+    second: Pickaxe Attack_40
+  - first:
+      213: 2052906551644971932
+    second: Pickaxe Attack_41
+  - first:
+      213: 758021790265884410
+    second: Pickaxe Attack_42
+  - first:
+      213: -8074686701549273391
+    second: Pickaxe Attack_43
+  - first:
+      213: 406599015144783610
+    second: Pickaxe Attack_44
+  - first:
+      213: -3076640056928686386
+    second: Pickaxe Attack_45
+  - first:
+      213: -8514490126480368010
+    second: Pickaxe Attack_46
+  - first:
+      213: 4445359464859482143
+    second: Pickaxe Attack_47
+  - first:
+      213: -1481027680217095113
+    second: Pickaxe Attack_48
+  - first:
+      213: -7938550664126691874
+    second: Pickaxe Attack_49
+  - first:
+      213: -7546438829355936370
+    second: Pickaxe Attack_50
+  - first:
+      213: -1880057371274082080
+    second: Pickaxe Attack_51
+  - first:
+      213: -3860164244953590797
+    second: Pickaxe Attack_52
+  - first:
+      213: 8961657913629565199
+    second: Pickaxe Attack_53
+  - first:
+      213: -6589997920639084698
+    second: Pickaxe Attack_54
+  - first:
+      213: -8892017840418863195
+    second: Pickaxe Attack_55
+  - first:
+      213: -8307084228434257893
+    second: Pickaxe Attack_56
+  - first:
+      213: 131608845365417952
+    second: Pickaxe Attack_57
+  - first:
+      213: 4175669628989723404
+    second: Pickaxe Attack_58
+  - first:
+      213: 8513057681509348559
+    second: Pickaxe Attack_59
+  - first:
+      213: -2571976150310216711
+    second: Pickaxe Attack_60
+  - first:
+      213: -8800751833148250397
+    second: Pickaxe Attack_61
+  - first:
+      213: 6885468278440546303
+    second: Pickaxe Attack_62
+  - first:
+      213: 808538371527767719
+    second: Pickaxe Attack_63
+  - first:
+      213: -4540279181758269208
+    second: Pickaxe Attack_64
+  - first:
+      213: -2411345825224925809
+    second: Pickaxe Attack_65
+  - first:
+      213: 5856882725492332827
+    second: Pickaxe Attack_66
+  - first:
+      213: -995406684719062257
+    second: Pickaxe Attack_67
+  - first:
+      213: 1935366095473898259
+    second: Pickaxe Attack_68
+  - first:
+      213: -363886323902104144
+    second: Pickaxe Attack_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickaxe Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23715ea0cdee1aa30800000000000000
+      internalID: 4224920554293237554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41065c4296b3057f0800000000000000
+      internalID: -625935025429979116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b54d41b2a0541d60800000000000000
+      internalID: 7859995909357913527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaaab6036ace42e0800000000000000
+      internalID: -2139550246290937091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c648483b5b0a30e0800000000000000
+      internalID: -2289504974150285630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffa3b818bc3d44b0800000000000000
+      internalID: -5454636812289724431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc859f6d86ead380800000000000000
+      internalID: -8945584214681219844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64323b3a4f802400800000000000000
+      internalID: 297395124389950571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a196563602e44330800000000000000
+      internalID: 3694326110659973537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fef8e8ddd1e0fa0800000000000000
+      internalID: -5832691629981438099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287df2c2790b7d2e0800000000000000
+      internalID: -2101016537817163902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd019d282e8f49e00800000000000000
+      internalID: 1050738264825729245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1aa804d1e51110800000000000000
+      internalID: 1231138373950381288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1167b67cc5747a8c0800000000000000
+      internalID: -3988140481205012975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18931b9753450d2c0800000000000000
+      internalID: -4408931446544057983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d1c2cca47607630800000000000000
+      internalID: 3922748846390385986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5d8148534813b80800000000000000
+      internalID: -8416800863194393144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970ff4ddc2a21ba90800000000000000
+      internalID: -7300007148810932103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9f655c1fbe6a2f0800000000000000
+      internalID: -961822046766564916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359e2194da947ce00800000000000000
+      internalID: 1064900845500557651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c91a09d98eaa250800000000000000
+      internalID: 5956829220584922155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722bb247d535e5e00800000000000000
+      internalID: 1035356625187877415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da52cceea2e8ad220800000000000000
+      internalID: 2511476057258599853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a19745f6bcd90b0800000000000000
+      internalID: -5720192272671630737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4987814487c488d60800000000000000
+      internalID: 7892642426389035156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe658b64185a1ee0800000000000000
+      internalID: -1289621498561728780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babe1de3b12f36fb0800000000000000
+      internalID: -4655611390938977365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f916ec5da1313b40800000000000000
+      internalID: 5418166447361104370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53451a4e3a7e436f0800000000000000
+      internalID: -705684550488861643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40601d6ea01459540800000000000000
+      internalID: 5013985275224851972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e2765e5d1f82ae0800000000000000
+      internalID: -1573742168786915727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9658ba18a8fbec590800000000000000
+      internalID: -7651968115254000279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3da8142adf6eb70800000000000000
+      internalID: 8928102184634733541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5807763abd9f1f660800000000000000
+      internalID: 7417984782990536837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be7aa90feea05060800000000000000
+      internalID: 6940239367460519604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickaxe Attack_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d2b936748100160800000000000000
+      internalID: 6989613316571868425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 60ec5b2ce843465439808971955b385a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pickaxe Attack_0: 4224920554293237554
+      Pickaxe Attack_1: -625935025429979116
+      Pickaxe Attack_10: -2101016537817163902
+      Pickaxe Attack_11: 1050738264825729245
+      Pickaxe Attack_12: 1231138373950381288
+      Pickaxe Attack_13: -3988140481205012975
+      Pickaxe Attack_14: -4408931446544057983
+      Pickaxe Attack_15: 3922748846390385986
+      Pickaxe Attack_16: -8416800863194393144
+      Pickaxe Attack_17: -7300007148810932103
+      Pickaxe Attack_18: -961822046766564916
+      Pickaxe Attack_19: 1064900845500557651
+      Pickaxe Attack_2: 7859995909357913527
+      Pickaxe Attack_20: 5956829220584922155
+      Pickaxe Attack_21: 1035356625187877415
+      Pickaxe Attack_22: 2511476057258599853
+      Pickaxe Attack_23: -5720192272671630737
+      Pickaxe Attack_24: 7892642426389035156
+      Pickaxe Attack_25: -1289621498561728780
+      Pickaxe Attack_26: -4655611390938977365
+      Pickaxe Attack_27: 5418166447361104370
+      Pickaxe Attack_28: -705684550488861643
+      Pickaxe Attack_29: 5013985275224851972
+      Pickaxe Attack_3: -2139550246290937091
+      Pickaxe Attack_30: -1573742168786915727
+      Pickaxe Attack_31: -7651968115254000279
+      Pickaxe Attack_32: 8928102184634733541
+      Pickaxe Attack_33: 7417984782990536837
+      Pickaxe Attack_34: 6940239367460519604
+      Pickaxe Attack_35: 6989613316571868425
+      Pickaxe Attack_4: -2289504974150285630
+      Pickaxe Attack_5: -5454636812289724431
+      Pickaxe Attack_6: -8945584214681219844
+      Pickaxe Attack_7: 297395124389950571
+      Pickaxe Attack_8: 3694326110659973537
+      Pickaxe Attack_9: -5832691629981438099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd447f6aa12ba8479879821aa2ec74b, type: 3}
+  m_Name: GearLibrary
+  m_EditorClassIdentifier: 
+  allBuyableGear:
+  - {fileID: 11400000, guid: e4c5aed5918ef014d8ba95daea6a163f, type: 2}
+  - {fileID: 11400000, guid: 04137c74b1f212043a3f6b54b84760d9, type: 2}
+  - {fileID: 11400000, guid: 815ea0b7672b5ed4199408230f47f799, type: 2}
+  - {fileID: 11400000, guid: f66080d0136cc71489e166c53f19f02a, type: 2}
+  - {fileID: 11400000, guid: 317da2af6ca446c45a1e186aaf8d4c82, type: 2}
+  - {fileID: 11400000, guid: fff937f6db4345b499282c2385b7b15f, type: 2}
+  - {fileID: 11400000, guid: 3eb46dc363257ce4aad2fb13c6070c05, type: 2}
+  - {fileID: 11400000, guid: a932a94ea549b9847a1c36141b9a657d, type: 2}
+  - {fileID: 11400000, guid: e1873e0ffdd6840479320b54e2794e66, type: 2}
+  - {fileID: 11400000, guid: d01966afae2e49f429ce03cc3951de3a, type: 2}

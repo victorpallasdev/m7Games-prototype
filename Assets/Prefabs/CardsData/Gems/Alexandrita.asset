@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88521e37b248a4c49ba6757f1715528e, type: 3}
+  m_Name: Alexandrita
+  m_EditorClassIdentifier: 
+  cardName: alexandrite_name
+  cardImage: {fileID: 21300000, guid: ee16769799d1d184ea44c51ec97f71e6, type: 3}
+  cardType: 0
+  cardDescription: 
+  defensiveMode: alexandrite_def
+  offensiveMode: alexandrite_ofe
+  cardAbility: NormalGemAbility
+  duration: 0
+  power: 0
+  cardLevel: 2
+  lifeSteal: 10
+  attackText: <color=#1A661A>+25% LS</color> /<color=#FF0000>+10 Fire
+  deffenseText: <color=#1A661A>+10 NRes</color> / <color=#FF0000> +10 FRes
+  defaultTextType: 0
+  icon: {fileID: 0}
+  upgradedCard: {fileID: 11400000, guid: 210c41956a63a1d4bb8cc8fd7e4c63cc, type: 2}
+  summonableData: {fileID: 0}
+  elementalDamagesList:
+  - element: 0
+    value: 10
+  elementalResistancesList:
+  - element: 0
+    value: 10
+  - element: 4
+    value: 10

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 018285b9d039d6044aabeae12fb85b47, type: 3}
+  m_Name: IceGirl
+  m_EditorClassIdentifier: 
+  characterName: Niviane
+  description: Ice Girl
+  id: 2
+  level: 0
+  maxHealth: 100
+  maxMagic: 0
+  healthRegen: 0
+  magicRegen: 0
+  shield: 0
+  lifeSteal: 0
+  characterSprite: {fileID: 21300000, guid: 0dfdbc31d1884b74397b1954f8fea3c5, type: 2}
+  backPackSprite: {fileID: 21300000, guid: 5c4055446d2ba704286ddb2c4d2fa6bc, type: 3}
+  characterColor: {r: 0.3529412, g: 0.654902, b: 0.8301887, a: 1}
+  animatorController: {fileID: 9100000, guid: 5cda249619b71344abae667e3b7e0e85, type: 2}
+  weaponAnimatorController: {fileID: 9100000, guid: 1a7a1d786a9e0f34a80fcb85c5e1060c, type: 2}
+  deck:
+  - {fileID: 11400000, guid: ab3927e54ee903641b4256c274f34762, type: 2}
+  - {fileID: 11400000, guid: ab3927e54ee903641b4256c274f34762, type: 2}
+  - {fileID: 11400000, guid: ab3927e54ee903641b4256c274f34762, type: 2}
+  - {fileID: 11400000, guid: ab3927e54ee903641b4256c274f34762, type: 2}
+  - {fileID: 11400000, guid: 460dae7a3c75c6543a309e758697a5a9, type: 2}
+  - {fileID: 11400000, guid: 460dae7a3c75c6543a309e758697a5a9, type: 2}
+  - {fileID: 11400000, guid: 460dae7a3c75c6543a309e758697a5a9, type: 2}
+  - {fileID: 11400000, guid: 460dae7a3c75c6543a309e758697a5a9, type: 2}
+  - {fileID: 11400000, guid: 460dae7a3c75c6543a309e758697a5a9, type: 2}
+  - {fileID: 11400000, guid: 460dae7a3c75c6543a309e758697a5a9, type: 2}
+  - {fileID: 11400000, guid: 460dae7a3c75c6543a309e758697a5a9, type: 2}
+  - {fileID: 11400000, guid: 335e198bdaebceb41b5fba82ec237a48, type: 2}
+  - {fileID: 11400000, guid: 335e198bdaebceb41b5fba82ec237a48, type: 2}
+  - {fileID: 11400000, guid: c59acb60afb9d5643b313ef8a156a223, type: 2}
+  - {fileID: 11400000, guid: 8004b710280fffb48b9817c555ada629, type: 2}
+  - {fileID: 11400000, guid: 8004b710280fffb48b9817c555ada629, type: 2}
+  - {fileID: 11400000, guid: c59acb60afb9d5643b313ef8a156a223, type: 2}
+  - {fileID: 11400000, guid: c59acb60afb9d5643b313ef8a156a223, type: 2}
+  - {fileID: 11400000, guid: 335e198bdaebceb41b5fba82ec237a48, type: 2}
+  - {fileID: 11400000, guid: 335e198bdaebceb41b5fba82ec237a48, type: 2}
+  - {fileID: 11400000, guid: 8004b710280fffb48b9817c555ada629, type: 2}
+  - {fileID: 11400000, guid: c59acb60afb9d5643b313ef8a156a223, type: 2}
+  - {fileID: 11400000, guid: c3f6d812663f1414a8a462cde1073465, type: 2}
+  - {fileID: 11400000, guid: c3f6d812663f1414a8a462cde1073465, type: 2}
+  - {fileID: 11400000, guid: c3f6d812663f1414a8a462cde1073465, type: 2}
+  - {fileID: 11400000, guid: 90dd7b8c2b59db74b8e611da07d61be3, type: 2}
+  - {fileID: 11400000, guid: 90dd7b8c2b59db74b8e611da07d61be3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}
+  - {fileID: 11400000, guid: e291dd28d9271d449bdcb8fba269bed3, type: 2}

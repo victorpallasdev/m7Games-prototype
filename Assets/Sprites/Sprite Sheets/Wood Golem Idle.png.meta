@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 4fb5da6cfb4dfb444aa0778266060e66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4084282846215238345
+    second: Wood Golem Idle_0
+  - first:
+      213: 2204541370595736636
+    second: Wood Golem Idle_1
+  - first:
+      213: -4887487044914023116
+    second: Wood Golem Idle_2
+  - first:
+      213: -3562188584512425960
+    second: Wood Golem Idle_3
+  - first:
+      213: -2950001889010830997
+    second: Wood Golem Idle_4
+  - first:
+      213: -3926458539518650405
+    second: Wood Golem Idle_5
+  - first:
+      213: -3388053050033720405
+    second: Wood Golem Idle_6
+  - first:
+      213: -2594773882991161437
+    second: Wood Golem Idle_7
+  - first:
+      213: -8244170892273033851
+    second: Wood Golem Idle_8
+  - first:
+      213: -8061862061009445760
+    second: Wood Golem Idle_9
+  - first:
+      213: -3014818048716221697
+    second: Wood Golem Idle_10
+  - first:
+      213: -2739310548140651963
+    second: Wood Golem Idle_11
+  - first:
+      213: 1881939893031023049
+    second: Wood Golem Idle_12
+  - first:
+      213: -4567011212421234696
+    second: Wood Golem Idle_13
+  - first:
+      213: -700659261898821161
+    second: Wood Golem Idle_14
+  - first:
+      213: -7847550396324204848
+    second: Wood Golem Idle_15
+  - first:
+      213: 8639559765206441443
+    second: Wood Golem Idle_16
+  - first:
+      213: -1253061225238936937
+    second: Wood Golem Idle_17
+  - first:
+      213: 7644737518054424132
+    second: Wood Golem Idle_18
+  - first:
+      213: 7346927239148065403
+    second: Wood Golem Idle_19
+  - first:
+      213: 5827017367412274859
+    second: Wood Golem Idle_20
+  - first:
+      213: 6250041072758259973
+    second: Wood Golem Idle_21
+  - first:
+      213: 8426512252480417284
+    second: Wood Golem Idle_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wood Golem Idle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 224
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf5049b6d847b488f9e4347dcaad8b
+      internalID: -1966092020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 224
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc7f68c03241a4bbed3e3d45c31ff1
+      internalID: -1945096337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 224
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22d7f4f3887c94ea86b544145146fb
+      internalID: -1429221201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 224
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba92c306db2ff54aa96a08c97f83681
+      internalID: -763470293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 224
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff267a9f99320d46b34d8dd7066e6f1
+      internalID: -1469139396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 224
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8312164d956bbf40858cfac9dea40a5
+      internalID: -1507797673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2309dcbb3f9964db501cd396f9bddf
+      internalID: -1829584569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 224
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc5b1caf5549c645805d9881da17fa1
+      internalID: -1875058497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 121
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee8bc8cf9a48cd40aad9e277c69cef0
+      internalID: 1116441034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 121
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3efdfab7ecd0e146a25542ee08b4b86
+      internalID: 1064586612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 121
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f64c7c1d2ed22d4d9b26d3ef8d31f44
+      internalID: 1874273543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 121
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e455306cf88f25d4b99198f9ab066315
+      internalID: 335998364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 121
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e68a0b3f03319f4b9c763cd8dc6a45d
+      internalID: 165108273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 121
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b2dd2f8adaaa344a6287780c16ff59
+      internalID: -508398516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 121
+        width: 70
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85e25bfc73b7b04d8b0c89f71d3c8d2
+      internalID: 979156510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_15
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 121
+        width: 70
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a83249b004123419315c6d3633d6da
+      internalID: 1367106684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 70
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f144fe542f444b45b0a59ea4c9ee12f
+      internalID: -1123253451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceff6fe8e9a0f7f4e97e0eee13b71ed9
+      internalID: -1310664155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 18
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6524ea5bfe8194f9fa59a492042eaa
+      internalID: 1005697528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 18
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82cd8b044b01de4f9f0b292e0d69e49
+      internalID: -334758689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 18
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f255facc2c3c7d429ca0ccb1111681c
+      internalID: -2045227606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 18
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18266cd6f64729d429992c5a7dac33c2
+      internalID: 1139914655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood Golem Idle_22
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 18
+        width: 70
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7897f017941484f8eacb209a8cf146
+      internalID: 1999214758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7e49527cbebd42244aebc80eb288294e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wood Golem Idle_0: -1966092020
+      Wood Golem Idle_1: -1945096337
+      Wood Golem Idle_10: 1874273543
+      Wood Golem Idle_11: 335998364
+      Wood Golem Idle_12: 165108273
+      Wood Golem Idle_13: -508398516
+      Wood Golem Idle_14: 979156510
+      Wood Golem Idle_15: 1367106684
+      Wood Golem Idle_16: -1123253451
+      Wood Golem Idle_17: -1310664155
+      Wood Golem Idle_18: 1005697528
+      Wood Golem Idle_19: -334758689
+      Wood Golem Idle_2: -1429221201
+      Wood Golem Idle_20: -2045227606
+      Wood Golem Idle_21: 1139914655
+      Wood Golem Idle_22: 1999214758
+      Wood Golem Idle_3: -763470293
+      Wood Golem Idle_4: -1469139396
+      Wood Golem Idle_5: -1507797673
+      Wood Golem Idle_6: -1829584569
+      Wood Golem Idle_7: -1875058497
+      Wood Golem Idle_8: 1116441034
+      Wood Golem Idle_9: 1064586612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

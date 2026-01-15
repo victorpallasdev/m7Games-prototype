@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88521e37b248a4c49ba6757f1715528e, type: 3}
+  m_Name: Pike
+  m_EditorClassIdentifier: 
+  cardName: pike_name
+  cardImage: {fileID: 21300000, guid: 0d8b161e7db15a148aaf9b66a9a3d8f7, type: 3}
+  cardType: 2
+  cardDescription: pickaxe_desc
+  defensiveMode: 
+  offensiveMode: 
+  cardAbility: GiveWeapon
+  duration: 5
+  power: 7
+  cardLevel: 1
+  lifeSteal: 0
+  attackText: 7 AP
+  deffenseText: 5 Turns
+  defaultTextType: 0
+  icon: {fileID: 21300000, guid: f44f2a01b7b0f4d4489e35680917aae0, type: 3}
+  upgradedCard: {fileID: 0}
+  summonableData: {fileID: 0}
+  elementalDamagesList: []

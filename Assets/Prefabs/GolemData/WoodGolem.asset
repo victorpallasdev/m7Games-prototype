@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55192c3715dabc3478cf2e32b5c4d201, type: 3}
+  m_Name: WoodGolem
+  m_EditorClassIdentifier: 
+  golemName: Wood Golem
+  id: 1
+  golemPower: 30
+  golemSprite: {fileID: 747689838802373466, guid: b5015a1ca99d2a94fae45917d6ec1d3f, type: 3}
+  animatorController: {fileID: 9100000, guid: 86effa7e0fffa1041ac134eece2f827a, type: 2}
+  maxHealthbarvalues: 96000000fa0000002c01000090010000f40100008a020000ee02000020030000b60300004c0400004c0400004c0400004c0400004c0400004c0400004c0400004c0400004c0400004c0400004c0400004c0400004c0400004c0400004c040000
+  elementalDamagesList:
+  - element: 4
+    value: 30
+  elementalResistances:
+  - element: 3
+    value: 50
+  - element: 5
+    value: 100
+  elementalWeaknesses:
+  - element: 0
+    value: 100
+  specialAbilityName: Root and Hit
+  specialAbilityMethodName: RootSmash
+  specialAbilityDescription: Root a dwarf and hit him like a truck, the dwarf remains
+    rooted until next turn
+  specialAttackMultiplier: 2
+  specialAttackCooldown: 3

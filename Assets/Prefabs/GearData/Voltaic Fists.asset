@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb93bf581be0c542b656087213932ac, type: 3}
+  m_Name: Voltaic Fists
+  m_EditorClassIdentifier: 
+  gearName: voltaicFists_name
+  gearIcon: {fileID: 21300000, guid: 9ae6423a8a79e0e4580395bb4c44e9c9, type: 3}
+  gearType: 2
+  goldCost: 60
+  armor: 50
+  elementalResistances:
+  - elementName: Electric
+    damage: 10
+  gearEffects: []
+  description: voltaicFists_desc
+  linkedBuyableItem: {fileID: 11400000, guid: a932a94ea549b9847a1c36141b9a657d, type: 2}

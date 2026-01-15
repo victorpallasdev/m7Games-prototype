@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 3da64a2c649735943a8db5e1d664dfd8
+  m_SerializeEntries:
+  - m_GUID: 1a6562759c0367a4e931a20e17797497
+    m_Address: CardPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 335e198bdaebceb41b5fba82ec237a48
+    m_Address: Sapphire
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 517a3f30d2aa812428f437f9157628d7
+    m_Address: MissHitPointIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51ad5014d23ef7340a2264ba82334ab8
+    m_Address: CardPlaceholder
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52d26843598fcd94686bac6fc86c842f
+    m_Address: BurnIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 609ab993407450f4aacc6700160504b7
+    m_Address: BuyableItemPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 644f5524b3843f04090ef1570de5f037
+    m_Address: WaterBottleSprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f9977f8646a8f84899f1a77626345e3
+    m_Address: BulletSprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76dd4cd67ecf7884ebf1d975ad26dfd7
+    m_Address: ProjectilePrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8088db0f0870fed40a4a72118ee2ca32
+    m_Address: HitPointPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ac83ae6beb05a64b81ec7b7798d2b42
+    m_Address: RootIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92118fbae35dc044a9d9a61493e77afb
+    m_Address: Dwarf_1_Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f652ed6de81aac489614f146e5ceeb9
+    m_Address: RegenerationIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2c57aa189682774f8cf2a2e7d0263c6
+    m_Address: ConsumableCardPlaceholder
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7308df094e1e48429ad413ec9742126
+    m_Address: PoisonIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0bf3cafb31cefa469cc56c97ac5398b
+    m_Address: GolemPreFab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3c632526aeee9340ad166b6ee0c2a25
+    m_Address: Assets/Sprites/UI/Buffs Frame.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc01bc8f203d8dd44b94326b2125c097
+    m_Address: TurnSegment
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9b756d37485df04c9fdd24dbc86159f
+    m_Address: FloatingTextPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6cff4bd9c62e9c4ea6e2028a41491b2
+    m_Address: Wood_Golem_Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd2e72fd1431cc74592cedb73ff6f3e3
+    m_Address: BoostDamageIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3f5a332394783e4aa0b6a1a2ddca869
+    m_Address: SummonableUnit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e823a484b9de7f14396c4f11421ccb8f
+    m_Address: TNTSprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e89a53689ba1a2b469d7f210f0395b70
+    m_Address: FieldEntityPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eae2d3ad11b270e43b96f833a0034f60
+    m_Address: WetIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f044725f52e3ca446bed145ec05bb099
+    m_Address: ConsumableCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7646ef194b0f2694a96df92ffd9ce225, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0930ba9d3f40261478e18e78bba40134, type: 2}
+    - {fileID: 11400000, guid: a1101c58e58b7ce4f97f9e80ca182987, type: 2}

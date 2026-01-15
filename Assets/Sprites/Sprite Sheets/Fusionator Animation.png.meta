@@ -1,0 +1,3363 @@
+fileFormatVersion: 2
+guid: 2c06a3ac0f2c4424faf37c15caece73f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fusionator Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12478
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80801884b2da4d040a72a8694e69d803
+      internalID: 1264561151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_1
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 12478
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a027e549bca92ad43a56d520c2b22b09
+      internalID: -2127648078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_2
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 12478
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1eff46ee964bb4eab65ce33a7aa177
+      internalID: -1957049434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_3
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 12478
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f181ed4eda0c84b894c104e4a78455
+      internalID: 1833516628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_4
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 12478
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3304976864afd54f92e89f4b2e57f8a
+      internalID: -1594391900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_5
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 12478
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a827a2d0ce40c47b0f82a14212acd5
+      internalID: -1047904330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_6
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 12478
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6df96580d1478f43930b5be541561be
+      internalID: 914447665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_7
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 12478
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29cb160046de314cbca5869694653a9
+      internalID: 1391055782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11744
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b2bc5d607d9be45af1e088d27688f5
+      internalID: -821139960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 11744
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ce4412fb8040a4db6ed475ce9b7063
+      internalID: 2067892024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_10
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 11744
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b17261992d84a342b74e28032b527d1
+      internalID: -451711620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_11
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 11744
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b0535e6a19f014fb358c92448082e2
+      internalID: 1945037635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_12
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 11744
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b9de26e50e164c9d3e1a86c48cebc
+      internalID: 261753432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_13
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 11744
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2ff02fc021353449674221113ed038
+      internalID: 1684434186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_14
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 11744
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8602e29abdeb4fe40b5b546a8a42bf25
+      internalID: 1327649203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_15
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 11744
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bc630d95dbe948aafd3c0bb3b1ad6
+      internalID: -1048201804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11010
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eebe6827df665b4f8c2d5e4a62e7456
+      internalID: 1609717171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_17
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 11010
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c77ff7b8dd69bc49aa4d1854f776532
+      internalID: 2013148969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_18
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 11010
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dce4f408be5444d99658793e922d25
+      internalID: 1877605804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_19
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 11010
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5817cda30f6e94da419f6d7f92d792
+      internalID: 1620308148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_20
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 11010
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae60122ed16bd14090b44af83b3def1
+      internalID: 2038092365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_21
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 11010
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c89a03d8ec70764ca317ebb6d5e590e
+      internalID: 831567746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_22
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 11010
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c4a61a69e76a4d9ad421c9be83d5b
+      internalID: -53577984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_23
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 11010
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f7a94e1b0ff5341a2d2e03ab81dcf1
+      internalID: -558857950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10276
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d9d4a9a7b7deb49aec5e1c616d78b3
+      internalID: 1661515464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_25
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 10276
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ffca24440a61b47a89deeb8c931805
+      internalID: 1383729413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_26
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 10276
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ca76a946545b34fa9eb8851a38064a
+      internalID: -1461745743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_27
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 10276
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b0c60cb04931445aecb52126ba2958
+      internalID: -421394752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_28
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 10276
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fcfeca763ef724fbc1a09426b27c05
+      internalID: 1796757020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_29
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 10276
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5a223e41602c14bb53bf792f0175c3
+      internalID: 1401607007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_30
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 10276
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769aa8e68f54665418d7108c0e68b446
+      internalID: 83371470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_31
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 10276
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a1b4950f521b346ab4e20df45ccdc5
+      internalID: -1068714518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9542
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c661280072514d96077a6d2f97e5b
+      internalID: -1729301912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_33
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 9542
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528f8f397ea7ead44832284482424991
+      internalID: 1749815274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_34
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 9542
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b3a8ddc1f33224b9aeb76b15acd56e
+      internalID: -2138159526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_35
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 9542
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c09b3bb1007b241a36f7b7f21c0c92
+      internalID: 761505769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_36
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 9542
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd283a74080f7d449cf8ea4bf49a179
+      internalID: -458587933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_37
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 9542
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2222cc11eb89744689380650323a7a7
+      internalID: 1049327961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_38
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 9542
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8a976a202efd34796aa9aeb25731ec
+      internalID: -1014758012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_39
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 9542
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f6210d9b87594896a533d713be904
+      internalID: -1803503912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8808
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cff9ab3204d3345a679a447e79aece
+      internalID: 1001144992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_41
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 8808
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4c757155a6ac44c913475dcfa37850
+      internalID: -2020067167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_42
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 8808
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16daa983e0348a747893b0e16f3aea5f
+      internalID: -288608266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_43
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 8808
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a84b368facc694ab61005734a7d1e2
+      internalID: -1206591401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_44
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 8808
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97294c118a52e614a94200b75e55e289
+      internalID: 1749209202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_45
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 8808
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd149266cfaa254090d0c95ac9f3286
+      internalID: -848543854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_46
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 8808
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e9194860310a4480947965468bf35
+      internalID: 404572055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_47
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 8808
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf619cb593a12469ed91b73328e137
+      internalID: -312074772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8074
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763d3b9404d3ed499ebbac969a3a2f0
+      internalID: 823994035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_49
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 8074
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b23234ae42f640a844dfbf936787b
+      internalID: 1496104987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_50
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 8074
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ebcc14dc342ad43bec0eab89833bad
+      internalID: -892519832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_51
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 8074
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf1a8f30f76484fabd13aeb3dd5012
+      internalID: -587523288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_52
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 8074
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eed11f99ea1da4479d39cccc2ed6267
+      internalID: 1859763760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_53
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 8074
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a99838e0737a740841ba8146891e94
+      internalID: -1011549340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_54
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 8074
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf004562311d6a242bf037c87433878e
+      internalID: 1526465649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_55
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 8074
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b818e6bbd4ff04d8f43235c20d852f
+      internalID: -1835858996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7340
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56114c49a875b7b45bdd65ff4b39b599
+      internalID: -2019738906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_57
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 7340
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05607f55e06cbd4085749eb02541588
+      internalID: -2091237013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_58
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 7340
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b353e7d0c76af4ca8065d4ae56a854
+      internalID: 1431270184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_59
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 7340
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daa9db19c45548478a649e3abf6101f
+      internalID: 1976455558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_60
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 7340
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45437ed48f3e642b478af001693582
+      internalID: 1007793206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_61
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 7340
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c24fa6ae18f9fb469d5e1019d392553
+      internalID: 2119956029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_62
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 7340
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a5f0882a90dd541bf7e91ea7554b89
+      internalID: 1725687002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_63
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 7340
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed060cd6be78f474391940d4d4f8d8ae
+      internalID: 326936415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6606
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c972877399a54dbd7fdec37179d8d
+      internalID: -1706790268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_65
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 6606
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff76b892fd76b794db943ab193bb2264
+      internalID: -1354638156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_66
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 6606
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1884e9afe536d24ca5e8b73ddefa26c
+      internalID: 1065708273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_67
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 6606
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232ed209791c701478286e81818401d3
+      internalID: 437523326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_68
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 6606
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7fa295e9869d449881d49d39317751
+      internalID: -2047404285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_69
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 6606
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f7f43d47401f144b5c92ca83f5aec1
+      internalID: 869619027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_70
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 6606
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e77d692fd7d94980e65bda8ad4efe
+      internalID: -919221097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_71
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 6606
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b90a710ddebe73448f9adca362b59be
+      internalID: 808729807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5872
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46c942e9bb537442a2715191c8696f7
+      internalID: -12658074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_73
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 5872
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3febc569e6caf174d9a13077d08f8f0f
+      internalID: -1200505835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_74
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 5872
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d6cf92dcf93f44c93e0b5d4450c265
+      internalID: 1200093702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_75
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 5872
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83ef7731e622c45a471bb37b7d9dae
+      internalID: -11135464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_76
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 5872
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec484633fdb65264b80c01b46c70b9fa
+      internalID: -395354944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_77
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 5872
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06608255af566b147b8a43dde2459440
+      internalID: 1351960079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_78
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 5872
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7dd6e53d4c05247b836c19db7af08e
+      internalID: -1426077266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_79
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 5872
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c636ea9959d74da530569136d7576
+      internalID: -461339436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5138
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5af17ceb58c574ebaf2edcf8cbf95d
+      internalID: -1815314702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_81
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 5138
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32a63af5f1b8ce4bb1251e56ba0a5ed
+      internalID: 50679466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_82
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 5138
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684ac116a220504da7f545d5cbae87d
+      internalID: -1969176640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_83
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 5138
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a343337993d375a4a8ea25350e447601
+      internalID: -288494623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_84
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 5138
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0c37502cd8f4b46adfc3d95a449852
+      internalID: 1616939220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_85
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 5138
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7743d8cd8ea6c4468368f7c6505ad2d
+      internalID: -1528427517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_86
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 5138
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5296e879a38c04a93761af79e0e709
+      internalID: -1323469851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_87
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 5138
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa128eaea56d8f4ea575c36281d5ce8
+      internalID: -1378560430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4404
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7939458a8b6f644ea3d30b30d2da152
+      internalID: -855323169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_89
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 4404
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39224e9543df234e88eee631c41f520
+      internalID: -965943045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_90
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 4404
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b3eaa950e8f054bba49362575f1115
+      internalID: -407155010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_91
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 4404
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a271cf59913c646ae8adf3b6e8cddd
+      internalID: -58611898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_92
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 4404
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a33b5b3ccd132d45b6bd9b4d9b98502
+      internalID: -1863465890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_93
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 4404
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea1186886f8e534f9903ed92b3cf382
+      internalID: -1529529282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_94
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 4404
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa35d2ded375f7d458d6f9b2b057eb19
+      internalID: 2031123436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_95
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 4404
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0843b86b22901094f9127456347eef09
+      internalID: 910369186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3670
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ddc438d6c6045408b6d262f0d171b3
+      internalID: 589130252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_97
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 3670
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77a9c8c1e86894180d49611001f766
+      internalID: -986271766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_98
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 3670
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197b46c0c90fe5b4485897a2ea29fda1
+      internalID: -1992020581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_99
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 3670
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655038e40ee7c8e4f81034e32600a6db
+      internalID: -894520585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_100
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 3670
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4263bb9697eef34c9fc6f7cac330c4d
+      internalID: -1087434362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_101
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 3670
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecb7141399968e48805f4b432e4b20e
+      internalID: 1060210544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_102
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 3670
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd1da5d4c5210545b28c5fed46d441f
+      internalID: -2143386263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_103
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 3670
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0a0e97ca3f5ef4bad91f40fc7cec17
+      internalID: -1321440811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2936
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a3f1bb18fef62469bb4fa977cb746f
+      internalID: -283105515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_105
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2936
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2368b454d0d2e4094207e293f71321
+      internalID: 117090692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_106
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2936
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749dfce5af5ddd24c8faefb72f7715ea
+      internalID: 1429127327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_107
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 2936
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67400586a2def22489ef56922b0e6515
+      internalID: 839755550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_108
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 2936
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6050c5ed41fba49bae15ec23f7adad
+      internalID: 1210188421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_109
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 2936
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f0409d611e11e439ead7ff7fff0201
+      internalID: -462125038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_110
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 2936
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bcf94692f8645469c650f8f174a617
+      internalID: 1938365820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_111
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 2936
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863aade707f1c304db7b251e3d74fe2b
+      internalID: -1240351374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2202
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4098cfcb3009b7b4aa19711d948ad75f
+      internalID: 1653376420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_113
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2202
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687d0de3cfb3754f87b84fe6755f80b
+      internalID: 1328800762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_114
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2202
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5bb5b11435f8c469969cf9c7210506
+      internalID: -908193198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_115
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 2202
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089e37b5f1b23974b8affc1e22a65447
+      internalID: 706837274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_116
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 2202
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566a2dc856e07284db35a1b86b0c8776
+      internalID: -1004658301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_117
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 2202
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd74f12d036eb3d41ae9f2cb57e54bb7
+      internalID: -1572607055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_118
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 2202
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be823b7422b558f468444a5b33ad785a
+      internalID: -301718896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_119
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 2202
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aff7b95e320cc4fa7d3e4b3c927339
+      internalID: 680429092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1468
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e197c6aa304444294162eaee80fa0b
+      internalID: 1399819656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_121
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1468
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed561f29c87d9c4f91cfd0c667c5e91
+      internalID: 572266248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_122
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1468
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6243dba8cc9177e4388fff7ea85cb43f
+      internalID: -2128779537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_123
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 1468
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53593a428c7f1114e92a7223cf35454c
+      internalID: 1791763971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_124
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 1468
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db7a3cb51f4d0f4bad52fab75c3d6c5
+      internalID: -1556581186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_125
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 1468
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ee104c7e1b2b949972e64c5ff60cb4
+      internalID: 132929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_126
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 1468
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b4e86d408855e489f2b6633c57fc8e
+      internalID: 1444850444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_127
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 1468
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec37ddd27062c954594926a0162c0392
+      internalID: -1955999255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815c8d0ed3b90a042897720d796199db
+      internalID: -2110915984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_129
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 734
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ede45b173c08439fa50134d8d67e8
+      internalID: -1458438360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_130
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 734
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6899ba1fac26d2469c7519070b06427
+      internalID: -755468118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_131
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 734
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7286c2401f1e91a41b2f0883fd7a05b9
+      internalID: 779940168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_132
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 734
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2002763a5e0cf4c8dfc8b007718fdc
+      internalID: -173157249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_133
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 734
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa084f390568d643ad104517c7ea7ab
+      internalID: -841808154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_134
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 734
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c544b62ebd7b24da544a6a86675ef3
+      internalID: -216511901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_135
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 734
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2ef9b910a1bc045ae9ca4a4bbe5422
+      internalID: 1364697516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e5e0ec0d88e2458d9d0511cc55608
+      internalID: -206091714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_137
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3b5aeb8a50c654e95f1416735d9aa1
+      internalID: -1686899928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_138
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 0
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b03940922dc0f43acd5d6c4b1ece38
+      internalID: -1966789403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fusionator Animation_139
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 0
+        width: 1061
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabad7f7ac7ee634492d2ac906fb9601
+      internalID: 443249261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fusionator Animation_0: 1264561151
+      Fusionator Animation_1: -2127648078
+      Fusionator Animation_10: -451711620
+      Fusionator Animation_100: -1087434362
+      Fusionator Animation_101: 1060210544
+      Fusionator Animation_102: -2143386263
+      Fusionator Animation_103: -1321440811
+      Fusionator Animation_104: -283105515
+      Fusionator Animation_105: 117090692
+      Fusionator Animation_106: 1429127327
+      Fusionator Animation_107: 839755550
+      Fusionator Animation_108: 1210188421
+      Fusionator Animation_109: -462125038
+      Fusionator Animation_11: 1945037635
+      Fusionator Animation_110: 1938365820
+      Fusionator Animation_111: -1240351374
+      Fusionator Animation_112: 1653376420
+      Fusionator Animation_113: 1328800762
+      Fusionator Animation_114: -908193198
+      Fusionator Animation_115: 706837274
+      Fusionator Animation_116: -1004658301
+      Fusionator Animation_117: -1572607055
+      Fusionator Animation_118: -301718896
+      Fusionator Animation_119: 680429092
+      Fusionator Animation_12: 261753432
+      Fusionator Animation_120: 1399819656
+      Fusionator Animation_121: 572266248
+      Fusionator Animation_122: -2128779537
+      Fusionator Animation_123: 1791763971
+      Fusionator Animation_124: -1556581186
+      Fusionator Animation_125: 132929
+      Fusionator Animation_126: 1444850444
+      Fusionator Animation_127: -1955999255
+      Fusionator Animation_128: -2110915984
+      Fusionator Animation_129: -1458438360
+      Fusionator Animation_13: 1684434186
+      Fusionator Animation_130: -755468118
+      Fusionator Animation_131: 779940168
+      Fusionator Animation_132: -173157249
+      Fusionator Animation_133: -841808154
+      Fusionator Animation_134: -216511901
+      Fusionator Animation_135: 1364697516
+      Fusionator Animation_136: -206091714
+      Fusionator Animation_137: -1686899928
+      Fusionator Animation_138: -1966789403
+      Fusionator Animation_139: 443249261
+      Fusionator Animation_14: 1327649203
+      Fusionator Animation_15: -1048201804
+      Fusionator Animation_16: 1609717171
+      Fusionator Animation_17: 2013148969
+      Fusionator Animation_18: 1877605804
+      Fusionator Animation_19: 1620308148
+      Fusionator Animation_2: -1957049434
+      Fusionator Animation_20: 2038092365
+      Fusionator Animation_21: 831567746
+      Fusionator Animation_22: -53577984
+      Fusionator Animation_23: -558857950
+      Fusionator Animation_24: 1661515464
+      Fusionator Animation_25: 1383729413
+      Fusionator Animation_26: -1461745743
+      Fusionator Animation_27: -421394752
+      Fusionator Animation_28: 1796757020
+      Fusionator Animation_29: 1401607007
+      Fusionator Animation_3: 1833516628
+      Fusionator Animation_30: 83371470
+      Fusionator Animation_31: -1068714518
+      Fusionator Animation_32: -1729301912
+      Fusionator Animation_33: 1749815274
+      Fusionator Animation_34: -2138159526
+      Fusionator Animation_35: 761505769
+      Fusionator Animation_36: -458587933
+      Fusionator Animation_37: 1049327961
+      Fusionator Animation_38: -1014758012
+      Fusionator Animation_39: -1803503912
+      Fusionator Animation_4: -1594391900
+      Fusionator Animation_40: 1001144992
+      Fusionator Animation_41: -2020067167
+      Fusionator Animation_42: -288608266
+      Fusionator Animation_43: -1206591401
+      Fusionator Animation_44: 1749209202
+      Fusionator Animation_45: -848543854
+      Fusionator Animation_46: 404572055
+      Fusionator Animation_47: -312074772
+      Fusionator Animation_48: 823994035
+      Fusionator Animation_49: 1496104987
+      Fusionator Animation_5: -1047904330
+      Fusionator Animation_50: -892519832
+      Fusionator Animation_51: -587523288
+      Fusionator Animation_52: 1859763760
+      Fusionator Animation_53: -1011549340
+      Fusionator Animation_54: 1526465649
+      Fusionator Animation_55: -1835858996
+      Fusionator Animation_56: -2019738906
+      Fusionator Animation_57: -2091237013
+      Fusionator Animation_58: 1431270184
+      Fusionator Animation_59: 1976455558
+      Fusionator Animation_6: 914447665
+      Fusionator Animation_60: 1007793206
+      Fusionator Animation_61: 2119956029
+      Fusionator Animation_62: 1725687002
+      Fusionator Animation_63: 326936415
+      Fusionator Animation_64: -1706790268
+      Fusionator Animation_65: -1354638156
+      Fusionator Animation_66: 1065708273
+      Fusionator Animation_67: 437523326
+      Fusionator Animation_68: -2047404285
+      Fusionator Animation_69: 869619027
+      Fusionator Animation_7: 1391055782
+      Fusionator Animation_70: -919221097
+      Fusionator Animation_71: 808729807
+      Fusionator Animation_72: -12658074
+      Fusionator Animation_73: -1200505835
+      Fusionator Animation_74: 1200093702
+      Fusionator Animation_75: -11135464
+      Fusionator Animation_76: -395354944
+      Fusionator Animation_77: 1351960079
+      Fusionator Animation_78: -1426077266
+      Fusionator Animation_79: -461339436
+      Fusionator Animation_8: -821139960
+      Fusionator Animation_80: -1815314702
+      Fusionator Animation_81: 50679466
+      Fusionator Animation_82: -1969176640
+      Fusionator Animation_83: -288494623
+      Fusionator Animation_84: 1616939220
+      Fusionator Animation_85: -1528427517
+      Fusionator Animation_86: -1323469851
+      Fusionator Animation_87: -1378560430
+      Fusionator Animation_88: -855323169
+      Fusionator Animation_89: -965943045
+      Fusionator Animation_9: 2067892024
+      Fusionator Animation_90: -407155010
+      Fusionator Animation_91: -58611898
+      Fusionator Animation_92: -1863465890
+      Fusionator Animation_93: -1529529282
+      Fusionator Animation_94: 2031123436
+      Fusionator Animation_95: 910369186
+      Fusionator Animation_96: 589130252
+      Fusionator Animation_97: -986271766
+      Fusionator Animation_98: -1992020581
+      Fusionator Animation_99: -894520585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
