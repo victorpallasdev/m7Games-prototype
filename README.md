@@ -30,4 +30,4 @@ Víctor Pallàs
 ![Item Description](Screenshots/Item_Description.png)
 ![Run](Screenshots/Run.png)
 ![Shop](Screenshots/Shop.png)
-![Title Logo](Screenshots/Title:Logo.png)
+![Title Logo](Screenshots/Title_Logo.png)
