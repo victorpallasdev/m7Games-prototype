@@ -1,25 +1,26 @@
 # The Golem Problem
 
-Proyecto de videojuego desarrollado en Unity como iniciativa personal.
-Enfocado en sistemas de gameplay, arquitectura modular y diseño escalable.
-Este repositorio contiene la carpeta Assets del proyecto Unity, donde se encuentran todos los scripts, recursos y sistemas desarrollados por el autor. 
-El resto del proyecto se ha omitido por simplicidad.
+Personal game development project built in Unity, focused on gameplay systems, modular architecture, and scalable design.
 
-## Tecnologías
+This repository contains the **Assets** folder of the Unity project, including all scripts, resources, and systems developed by the author.  
+The rest of the Unity project has been intentionally omitted for simplicity.
+
+## Technologies
 - Unity
 - C#
 - ScriptableObjects
 - Git
 - Aseprite
 
-## Características principales
-- Sistema de cartas modular
-- Arquitectura desacoplada
-- Gestión de estados y turnos
-- Prototipo funcional
+## Key Features
+- Modular card-based system
+- Decoupled and scalable architecture
+- State and turn management
+- Functional gameplay prototype
 
-## Estado del proyecto
-En desarrollo activo.
+## Project Status
+Actively in development.
 
-## Autor
+## Author
 Víctor Pallàs
+
